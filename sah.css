@@ -1,0 +1,22 @@
+body{
+    font-family: sans-serif;
+}
+.R{
+list-style-type: upper-roman;
+}
+
+.b{
+    list-style-type: lower-alpha;
+    color: black;
+}
+li{
+    font-weight: bolder;
+}
+.a{
+ color: black;
+}
+
+span{
+    color: rgb(76, 63, 148);
+    font-weight: normal;
+}
